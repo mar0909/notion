@@ -1,0 +1,157 @@
+      <!-- Show static HTML/CSS as a placeholder in case js is not enabled - javascript include will override this if things work -->
+      <style type="text/css" media="screen">
+  .gr_custom_container_1613910124 {
+    /* customize your Goodreads widget container here*/
+    border: 1px solid gray;
+    border-radius:10px;
+    padding: 10px 5px 10px 5px;
+    background-color: #ffffff;
+    color: #9C8FCA;
+    width: 300px
+  }
+  .gr_custom_header_1613910124 {
+    /* customize your Goodreads header here*/
+    border-bottom: 1px solid gray;
+    width: 100%;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 120%
+  }
+  .gr_custom_each_container_1613910124 {
+    /* customize each individual book container here */
+    width: 100%;
+    clear: both;
+    margin-bottom: 10px;
+    overflow: auto;
+    padding-bottom: 4px;
+    border-bottom: 1px solid #aaa;
+  }
+  .gr_custom_book_container_1613910124 {
+    /* customize your book covers here */
+    overflow: hidden;
+    height: 60px;
+      float: left;
+      margin-right: 4px;
+      width: 39px;
+  }
+  .gr_custom_author_1613910124 {
+    /* customize your author names here */
+    font-size: 10px;
+  }
+  .gr_custom_tags_1613910124 {
+    /* customize your tags here */
+    font-size: 10px;
+    color: gray;
+  }
+  .gr_custom_rating_1613910124 {
+    /* customize your rating stars here */
+    float: right;
+  }
+</style>
+
+      <div id="gr_custom_widget_1613910124">
+          <div class="gr_custom_container_1613910124">
+    <h2 class="gr_custom_header_1613910124">
+    <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/43028826-mar?shelf=to-read&amp;utm_medium=api&amp;utm_source=custom_widget">Mar&#39;s bookshelf: to-read</a>
+    </h2>
+      <div class="gr_custom_each_container_1613910124">
+          <div class="gr_custom_book_container_1613910124">
+            <a title="The Paris Library" rel="nofollow" href="https://www.goodreads.com/review/show/3835438841?utm_medium=api&amp;utm_source=custom_widget"><img alt="The Paris Library" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1583066862l/52761909._SY75_.jpg" /></a>
+          </div>
+          <div class="gr_custom_rating_1613910124">
+            <span class=" staticStars notranslate"><img src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
+          </div>
+          <div class="gr_custom_title_1613910124">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/3835438841?utm_medium=api&amp;utm_source=custom_widget">The Paris Library</a>
+          </div>
+          <div class="gr_custom_author_1613910124">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/2920231.Janet_Skeslien_Charles">Janet Skeslien Charles</a>
+          </div>
+          <div class="gr_custom_tags_1613910124">
+            tagged:
+            to-read
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1613910124">
+          <div class="gr_custom_book_container_1613910124">
+            <a title="Thinking, Fast and Slow" rel="nofollow" href="https://www.goodreads.com/review/show/3579420257?utm_medium=api&amp;utm_source=custom_widget"><img alt="Thinking, Fast and Slow" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317793965l/11468377._SX50_.jpg" /></a>
+          </div>
+          <div class="gr_custom_rating_1613910124">
+            <span class=" staticStars notranslate"><img src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
+          </div>
+          <div class="gr_custom_title_1613910124">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/3579420257?utm_medium=api&amp;utm_source=custom_widget">Thinking, Fast and Slow</a>
+          </div>
+          <div class="gr_custom_author_1613910124">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/72401.Daniel_Kahneman">Daniel Kahneman</a>
+          </div>
+          <div class="gr_custom_tags_1613910124">
+            tagged:
+            to-read
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1613910124">
+          <div class="gr_custom_book_container_1613910124">
+            <a title="موسوعة أساطير العرب عن الجاهلية ودلالاتها" rel="nofollow" href="https://www.goodreads.com/review/show/3510688388?utm_medium=api&amp;utm_source=custom_widget"><img alt="موسوعة أساطير العرب عن الجاهلية ودلالاتها" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1296315320l/10341640._SX50_.jpg" /></a>
+          </div>
+          <div class="gr_custom_rating_1613910124">
+            <span class=" staticStars notranslate"><img src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
+          </div>
+          <div class="gr_custom_title_1613910124">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/3510688388?utm_medium=api&amp;utm_source=custom_widget">موسوعة أساطير العرب عن الجاهلية ودلالاتها</a>
+          </div>
+          <div class="gr_custom_author_1613910124">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/4612734._">محمد عجينة</a>
+          </div>
+          <div class="gr_custom_tags_1613910124">
+            tagged:
+            to-read
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1613910124">
+          <div class="gr_custom_book_container_1613910124">
+            <a title="Quiet: The Power of Introverts in a World That Can't Stop Talking" rel="nofollow" href="https://www.goodreads.com/review/show/3503664895?utm_medium=api&amp;utm_source=custom_widget"><img alt="Quiet: The Power of Introverts in a World That Can't Stop Talking" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328562861l/8520610._SY75_.jpg" /></a>
+          </div>
+          <div class="gr_custom_rating_1613910124">
+            <span class=" staticStars notranslate"><img src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
+          </div>
+          <div class="gr_custom_title_1613910124">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/3503664895?utm_medium=api&amp;utm_source=custom_widget">Quiet: The Power of Introverts in a World That Can't Stop Talking</a>
+          </div>
+          <div class="gr_custom_author_1613910124">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/4101935.Susan_Cain">Susan Cain</a>
+          </div>
+          <div class="gr_custom_tags_1613910124">
+            tagged:
+            to-read
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1613910124">
+          <div class="gr_custom_book_container_1613910124">
+            <a title="A Brief History of Time: From the Big Bang to Black Holes" rel="nofollow" href="https://www.goodreads.com/review/show/3466185754?utm_medium=api&amp;utm_source=custom_widget"><img alt="A Brief History of Time: From the Big Bang to Black Holes" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427306242l/738248._SY75_.jpg" /></a>
+          </div>
+          <div class="gr_custom_rating_1613910124">
+            <span class=" staticStars notranslate"><img src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
+          </div>
+          <div class="gr_custom_title_1613910124">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/3466185754?utm_medium=api&amp;utm_source=custom_widget">A Brief History of Time: From the Big Bang to Black Holes</a>
+          </div>
+          <div class="gr_custom_author_1613910124">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/1401.Stephen_Hawking">Stephen Hawking</a>
+          </div>
+          <div class="gr_custom_tags_1613910124">
+            tagged:
+            to-read
+          </div>
+      </div>
+  <br style="clear: both"/>
+  <center>
+    <a rel="nofollow" href="https://www.goodreads.com/"><img alt="goodreads.com" style="border:0" src="https://s.gr-assets.com/images/widget/widget_logo.gif" /></a>
+  </center>
+  <noscript>
+    Share <a rel="nofollow" href="https://www.goodreads.com/">book reviews</a> and ratings with Mar, and even join a <a rel="nofollow" href="https://www.goodreads.com/group">book club</a> on Goodreads.
+  </noscript>
+  </div>
+
+      </div>
+      <script src="https://www.goodreads.com/review/custom_widget/43028826.Mar's%20bookshelf:%20to-read?cover_position=left&cover_size=small&num_books=5&order=d&shelf=to-read&show_author=1&show_cover=1&show_rating=1&show_review=1&show_tags=1&show_title=1&sort=date_updated&widget_bg_color=ffffff&widget_bg_transparent=&widget_border_width=1&widget_id=1613910124&widget_text_color=9C8FCA&widget_title_size=medium&widget_width=medium" type="text/javascript" charset="utf-8"></script>
